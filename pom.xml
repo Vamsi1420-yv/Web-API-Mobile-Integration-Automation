@@ -72,10 +72,11 @@
             <version>3.04-1.1</version>
         </dependency>
     </dependencies>
-    <repositories>
-        <repository>
-            <id>aspose-maven-repository</id>
-            <url>http://maven.aspose.com/repository/repo/</url>
-        </repository>
-    </repositories>
+   <repositories>
+    <repository>
+        <id>aspose-maven-repository</id>
+        <url>https://repository.aspose.com/repo/</url> <!-- Updated to HTTPS -->
+    </repository>
+</repositories>
+
 </project>
